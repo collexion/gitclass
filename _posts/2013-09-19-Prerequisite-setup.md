@@ -37,6 +37,10 @@ You should have a text editor installed. We will use it to create and edit files
 that will be added to our project. In Windows you may use notepad, in Mac you
 may use TextEdit, and linux will have vim.
 
+# Github Account
+
+Create an account on github.com
+
 # Next Lesson
 
 [Git structure and terminology][next-lesson]
@@ -45,4 +49,4 @@ may use TextEdit, and linux will have vim.
 [gh-win]: http://windows.github.com/
 [vb]: https://www.virtualbox.org/
 [vagrant]: http://www.vagrantup.com/
-[next-lesson]: /lesson/2013/09/20/Structure-and-terminology.html
+[next-lesson]: ../20/Structure-and-terminology.html
