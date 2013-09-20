@@ -104,4 +104,4 @@ Check out the master branch and run `git pull` to load the changes from github.
 
 [Project Management][next-lesson]
 
-[next-lesson]: ../23/Project-management.md
+[next-lesson]: ../23/Project-management.html
