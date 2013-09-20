@@ -1,3 +1,4 @@
 name: Gitclass
 markdown: redcarpet
 pygments: true
+baseurl: /gitclass
