@@ -39,7 +39,8 @@ may use TextEdit, and linux will have vim.
 
 # Github Account
 
-Create an account on github.com
+Create an account on github.com.  Then go to the settings page and set up an SSH
+key.
 
 # Next Lesson
 
